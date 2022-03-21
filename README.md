@@ -15,7 +15,7 @@ To deploy this project run
 ```
 ## Demo
 
-![App Screenshot](https://github.com/gracida001/opengl-2d-draw/blb/main/example.png)
+![App Screenshot](https://github.com/gracida001/opengl-2d-draw/blob/main/example.png)
 
 
 ## Contributing and Support
