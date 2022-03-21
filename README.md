@@ -1,8 +1,6 @@
 
 # OpenGL 2D Drawer
-
-![App Screenshot](https://github.com/gracida001/opengl-2d-draw/blob/main/example.png)
-
+An OpenGL 2d that use C and GLUT.
 ## Deployment
 
 To deploy this project run
@@ -17,7 +15,7 @@ To deploy this project run
 ```
 ## Demo
 
-Insert gif or link to demo
+![App Screenshot](https://github.com/gracida001/opengl-2d-draw/blb/main/example.png)
 
 
 ## Contributing and Support
